@@ -1,6 +1,6 @@
 # 他人の生成したネットワークオブジェクトを削除する（PUN2）
 PUN2（Photon Unity Networking 2）において、他のプレイヤーが生成したネットワークオブジェクトを削除するやり方を示したサンプルプロジェクトです。
-こちらの記事で、やり方の詳細を説明しています。
+[こちらの記事](https://zenn.dev/ekito_station/articles/destroy-network-object)で、やり方の詳細を説明しています。
 
 ## DEMO
 <p align="center">
